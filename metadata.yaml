@@ -1,0 +1,28 @@
+_repo: Diccionario-Bagobo-Espa-ol_27326
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gisbert, Mateo
+    gutenberg_agent_id: '32630'
+    url: http://www.gutenberg.org/2009/agents/32630
+description: ''
+gutenberg_issued: '2008-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27326'
+language:
+- es
+- bgs
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish language -- Dictionaries -- Bagobo'
+- !lcc 'PC'
+- !lcsh 'Bagobo language -- Dictionaries -- Spanish'
+- !lcc 'PL'
+title: Diccionario Bagobo-Español
+url: http://www.gutenberg.org/ebooks/27326
